@@ -4,3 +4,4 @@ streamlit
 datasets
 sentencepiece
 scipy
+soundfile 
